@@ -1,1 +1,0 @@
-# C-program---Multiplication-of-2d-matrix
